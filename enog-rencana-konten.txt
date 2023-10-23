@@ -3,7 +3,6 @@ aaaaaaaaaa
 -A
 -B
 bbbbbbbbbb
-cccccccccc
 dddddddddd
 eeeeeeeeee
 ffffffffff
